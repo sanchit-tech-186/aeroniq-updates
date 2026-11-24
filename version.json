@@ -1,6 +1,1 @@
-{
-  "version": "1.6",
-  "build": "20261123-1",
-  "notes": "Compass, scanner, search, smoother UI",
-  "url": "https://github.com/sanchit-tech-186/aeroniq/actions"
-}
+{"version":"1.7","build":"20261124-1","notes":"Flight tracker with Aero Island, landed alert, weather tile, new notes, side shortcuts, scanner and compass fixes.","url":"https://github.com/sanchit-tech-186/aeroniq/actions"}
