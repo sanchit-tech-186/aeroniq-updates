@@ -1,1 +1,1 @@
-{"version":"1.8","build":"20261125-1","notes":"Weather tile with live animations, flight-ops signal with flash, full-screen layout, clearer icons and tidier pop-ups.","url":"https://github.com/sanchit-tech-186/aeroniq/actions"}
+{"version": "1.9", "build": "20261126-1", "notes": "Smaller weather tile (airport METAR or your location), grouped ATA search, clear buttons in Notes, browser choice for web links, grey dark theme. Flight tracker and Aero Island removed.", "url": "https://github.com/sanchit-tech-186/aeroniq/actions"}
